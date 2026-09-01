@@ -1,8 +1,4 @@
-### J. Junior Oliveira
-
-**Estudante de Desenvolvimento de Software Multiplataforma**
-
-> *A tecnologia existe para servir à vida, não para nos tornar escravos dela.*
+### Estudante de Desenvolvimento de Software Multiplataforma
 
 ---
 
