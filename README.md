@@ -10,7 +10,7 @@ Utilizar o GitHub para documentar meus estudos, organizar materiais de catequese
 
 #### 🎓 Estudos
 
-* 📚 **DSM-estudos** — Anotações, pesquisas e atividades práticas.
+* 📚 [**jornada-dsm** ](./ojjrx-code/jornada-dsm) — Anotações, pesquisas e atividades práticas.
 
 ---
 
