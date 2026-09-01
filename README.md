@@ -2,9 +2,12 @@
 
 ---
 
-#### 🎯 Objetivo do perfil
+#### 🎯 Objetivos do perfil
 
-Utilizar o GitHub para documentar meus estudos, organizar materiais de catequese, praticar versionamento com Git e acompanhar minha evolução acadêmica, com o objetivo de aplicar os conhecimentos adquiridos em aula no planejamento, desenvolvimento e publicação de um aplicativo.
+* Documentar e organizar meus estudos.
+* Aprender e praticar versionamento de projetos utilizando Git e GitHub.
+* Planejar, desenvolver e publicar um aplicativo aplicando os conhecimentos adquiridos ao longo das aulas.
+* Organizar materiais de catequese e conteúdos de interesse geral.
 
 ---
 
