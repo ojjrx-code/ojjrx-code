@@ -13,7 +13,7 @@
 
 #### 🎓 Estudos
 
-* 📚 [**jornada-dsm**](https://github.com/ojjrx-code/jornada-dsm) — Anotações, pesquisas e atividades práticas.
+* 📚 **jornada-dsm** — Anotações, pesquisas e atividades práticas.
 
 ---
 
