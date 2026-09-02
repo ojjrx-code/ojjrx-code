@@ -1,4 +1,9 @@
-### Estudante de Desenvolvimento de Software Multiplataforma
+### 👤 Estudante de Desenvolvimento de Software Multiplataforma
+
+🎓 **Fatec Praia Grande**
+
+📌 2026/2 — Início  
+🏁 2029/1 — Conclusão prevista
 
 ---
 
@@ -6,7 +11,7 @@
 
 * Documentar e organizar meus estudos.
 * Aprender e praticar versionamento de projetos utilizando Git e GitHub.
-* Planejar, desenvolver e publicar um aplicativo aplicando os conhecimentos adquiridos ao longo das aulas.
+* Planejar, desenvolver e publicar projetos com base nos conhecimentos adquiridos ao longo do curso.
 * Organizar materiais de catequese e conteúdos de interesse geral.
 
 ---
@@ -17,7 +22,14 @@
 
 ---
 
-#### 🛠️ Tecnologias e ferramentas — nível básico / em aprendizado
+#### 🚧 Projetos em desenvolvimento
+
+* 🌍 **Site Jornada DSM** — Ambiente web para navegar entre disciplinas, conteúdos e projetos acadêmicos.
+* ✝️ **Jornada Catequese** — Ambiente web para organização e acesso a conteúdos, encontros e materiais de catequese.
+
+---
+
+#### 🛠️ Tecnologias e ferramentas — em aprendizado
 
 * HTML
 * C#
