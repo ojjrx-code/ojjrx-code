@@ -2,9 +2,6 @@
 
 🎓 **Fatec Praia Grande**
 
-📌 2026/2 — Início  
-🏁 2029/1 — Conclusão prevista
-
 ---
 
 #### 🎯 Objetivos do perfil
