@@ -39,3 +39,7 @@
 
 * ✝️ **Catequese** — Organização e planejamento dos encontros.
 * 📚 **Conhecimentos** — Pesquisas e materiais de interesse geral.
+
+---
+
+> *A tecnologia existe para servir à vida, não para nos tornar escravos dela.
