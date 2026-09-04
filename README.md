@@ -9,7 +9,7 @@
 
 #### 🎓 Estudos
 
-- 📚 [**Jornada DSM**](https://github.com/ojjrx-code/jornada-dsm)  
+- 📚 **Jornada DSM**
   Anotações, pesquisas, atividades práticas e trabalhos do curso de **Desenvolvimento de Software Multiplataforma**.
 
 ---
