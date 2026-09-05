@@ -15,16 +15,6 @@
 
 ---
 
-#### 🚧 Projetos em desenvolvimento
-
-- 🌍 [**Site Jornada DSM**](https://ojjrx-code.github.io/site-jornada-dsm/)  
-  Ambiente web para navegar entre disciplinas, conteúdos e projetos acadêmicos.
-
-- ✝️ **Site Jornada Catequese**  
-  Ambiente web para organização e acesso a encontros, conteúdos e materiais de catequese.
-
----
-
 #### 🛠️ Tecnologias e ferramentas — em aprendizado
 
 - HTML
