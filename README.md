@@ -1,15 +1,16 @@
+<img src="./assets/banner-jj.webp" alt="Banner do perfil" width="100%">
+
 #### 🎯 Objetivos do perfil
 
 - 📚 Documentar e organizar meus estudos.
-- 🔧 Aprender e praticar versionamento utilizando **Git e GitHub**.
+- 🔧 Praticar o uso de **Git e GitHub**.
 - 🚀 Planejar, desenvolver e publicar projetos com base nos conhecimentos adquiridos ao longo do curso.
-- 🗂️ Organizar conteúdos acadêmicos, materiais de catequese e pesquisas de interesse geral.
 
 ---
 
 #### 🎓 Estudos
 
-- 📚 **Jornada DSM**
+- 📚 **Jornada DSM**  
   Anotações, pesquisas, atividades práticas e trabalhos do curso de **Desenvolvimento de Software Multiplataforma**.
 
 ---
