@@ -1,27 +1,30 @@
-<img src="./assets/banner-jj.webp" alt="Banner do perfil" width="100%">
+<img src="./assets/banner-jj.webp" alt="banner com nome e nome do curso" width="100%">
 
 #### 🎯 Objetivos do perfil
 
-- 📚 Documentar e organizar meus estudos.
-- 🔧 Praticar o uso de **Git e GitHub**.
-- 🚀 Planejar, desenvolver e publicar projetos com base nos conhecimentos adquiridos ao longo do curso.
+- 📚 Registrar e organizar meus estudos.
+- 🔀 Praticar versionamento com Git e GitHub.
+- 🚀 Aplicar o aprendizado em projetos.
 
 ---
 
-#### 🎓 Estudos
+#### 🌐 Jornada DSM
 
-- 📚 **Jornada DSM**  
-  Anotações, pesquisas, atividades práticas e trabalhos do curso de **Desenvolvimento de Software Multiplataforma**.
-
----
-
-#### 🛠️ Tecnologias e ferramentas — em aprendizado
-
-- HTML
-- C#
-- Git
-- GitHub
+Ambiente web com estudos e projetos desenvolvidos ao longo do curso.  
+[Acessar Jornada DSM →](https://ojjrx-code.github.io/site-jornada-dsm/)
 
 ---
 
-> A tecnologia existe para servir à vida, não para nos tornar escravos dela.
+#### 🛠️ Tecnologias e ferramentas atuais
+
+- 🖥️ `HTML`
+- `>_` `C#`
+- 🧰 `Git` · `GitHub`
+- 📐 `draw.io`
+- 🎨 `Affinity` · `Figma`
+
+---
+
+> Tecnologia para **servir à vida**, não para nos tornar escravos dela.  
+>
+> **A ferramenta amplia sua capacidade. A dependência enfraquece.**
