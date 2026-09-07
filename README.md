@@ -15,7 +15,7 @@ Ambiente web com estudos e projetos desenvolvidos ao longo do curso.
 
 ---
 
-#### 🛠️ Tecnologias e ferramentas atuais
+#### 🛠️ Tecnologias e ferramentas em aprendizado
 
 - 🖥️ `HTML`
 - `>_` `C#`
